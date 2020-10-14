@@ -5,9 +5,9 @@ metadata:
 data:
   GIT_EMAIL: "rnoriega@redhat.com"
   GIT_USERNAME: "oglok"
-  GIT_DEV_REPO_URL: https://github.com/redhat-edge-computing/manuela-dev.git
-  GIT_OPS_REPO_TEST_URL: https://github.com/redhat-edge-computing/manuela-gitops.git
-  GIT_OPS_REPO_PROD_URL: https://github.com/redhat-edge-computing/manuela-gitops.git
+  GIT_DEV_REPO_URL: https://github.com/copejon/manuela-dev.git
+  GIT_OPS_REPO_TEST_URL: https://github.com/copejon/manuela-gitops.git
+  GIT_OPS_REPO_PROD_URL: https://github.com/copejon/manuela-gitops.git
   IOT_CONSUMER_REMOTE_IMAGE: quay.io/manuela/iot-consumer
   IOT_CONSUMER_YAML_PATH: images.(name==messaging).newTag
   IOT_CONSUMER_TEST_KUSTOMIZATION_PATH: config/instances/manuela-tst/kustomization.yaml
