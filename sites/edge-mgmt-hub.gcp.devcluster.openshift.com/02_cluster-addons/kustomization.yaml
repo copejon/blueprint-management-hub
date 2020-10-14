@@ -1,2 +1,2 @@
 bases:
-- ../../../profiles/production.gcp/02_cluster-addons
+- ../../../profiles/production.aws/02_cluster-addons
